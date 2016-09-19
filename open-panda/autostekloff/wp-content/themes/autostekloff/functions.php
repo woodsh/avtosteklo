@@ -8,8 +8,6 @@ require_once dirname( __FILE__ ) .'/ajax/ajax.php';
 
 //require_once dirname( __FILE__ ) .'/lib/sample/sample-config.php';
 
-//require_once dirname( __FILE__ ) .'/lib/sample/sample-config.php';
-
 add_theme_support('post-thumbnails'); 
 
 add_action('wp_enqueue_scripts', 'my_theme_load_resources');

@@ -1,5 +1,5 @@
 <?php global $autostekloff; ?>   
-<footer>
+<footer class="">
       <div class="container">
         <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
           <div class="row">
